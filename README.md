@@ -1,4 +1,4 @@
-# LMMSNetworkSecurity
+# LMMs NetworkSecurity
 
 
 Utilize multiple LLMs to assist students in writing and optimizing P4 code.
@@ -6,7 +6,7 @@ Develop AI-enhanced security policies for network protection.
 Test security strategies against various cyberattack models.
 Validate results using Mininet or real-world experimental testbeds.
 
-##Methodologies
+## Methodologies
 1. Select multiple LLMs (ChatGPT, Gemini, Claude, DeepSeek) for
 comparison.
 2. Use LLMs to generate P4-based networking security strategies.
