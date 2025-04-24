@@ -1,4 +1,4 @@
-# LMMs NetworkSecurity
+# LLMs NetworkSecurity
 
 
 Utilize multiple LLMs to assist students in writing and optimizing P4 code.
